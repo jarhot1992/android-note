@@ -4,6 +4,8 @@
 
 [Android 性能优化（二）之布局优化面面观](https://juejin.im/post/58a442b661ff4b006c8a63f5)
 
+[Android性能优化（三）之内存管理](https://juejin.im/post/58b18e442f301e0068028a90)
+
 [Android 性能优化：使用 TraceView 找到卡顿的元凶](https://blog.csdn.net/u011240877/article/details/54347396)
 
 [AndroidStudio3.0 Android Profiler分析器(cpu memory network 分析器)](https://blog.csdn.net/niubitianping/article/details/72617864)
