@@ -17,3 +17,6 @@
 [CPU Profiler](https://developer.android.google.cn/studio/profile/cpu-profiler)   [CPU Profiler(zh)](https://translate.googleusercontent.com/translate_c?depth=1&ie=UTF8&rurl=translate.google.com&sp=nmt4&tl=zh-CN&u=https://developer.android.google.cn/studio/profile/cpu-profiler&xid=25657,15700022,15700124,15700149,15700168,15700186,15700189,15700201,15700205&usg=ALkJrhj5Ee1OWGEhq6a68KbdDRWFM4oqEw)
 
 [Traceview](https://developer.android.google.cn/studio/profile/traceview)  [Traceview(zh)](https://translate.googleusercontent.com/translate_c?depth=1&ie=UTF8&rurl=translate.google.com&sp=nmt4&tl=zh-CN&u=https://developer.android.google.cn/studio/profile/traceview&xid=25657,15700022,15700124,15700149,15700168,15700186,15700189,15700201,15700205&usg=ALkJrhjskC_E0RPCReZLgoVGksrNQr4aDw)
+
+### Android 系统知识
+[Android内存之VSS/RSS/PSS/USS(procrank内存解读)](https://blog.csdn.net/panda1234lee/article/details/52291588)
