@@ -10,6 +10,8 @@
 
 [Android 性能优化（五）之细说 Bitmap](https://juejin.im/post/58c3b29761ff4b005d906730)
 
+[Android性能优化（六）之卡顿那些事](https://juejin.im/post/58d73b35570c350058d942c7)
+
 [Android 性能优化：使用 TraceView 找到卡顿的元凶](https://blog.csdn.net/u011240877/article/details/54347396)
 
 [AndroidStudio3.0 Android Profiler分析器(cpu memory network 分析器)](https://blog.csdn.net/niubitianping/article/details/72617864)
