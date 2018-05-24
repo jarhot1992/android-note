@@ -16,6 +16,8 @@
 
 [Android 性能优化（八）之网络优化](https://juejin.im/post/58ef22e3b123db0058214c60)
 
+[Android 性能优化（九）之不可忽视的电量](https://juejin.im/post/58fef4771b69e60058aab2d1)
+
 [Android 性能优化：使用 TraceView 找到卡顿的元凶](https://blog.csdn.net/u011240877/article/details/54347396)
 
 [AndroidStudio3.0 Android Profiler分析器(cpu memory network 分析器)](https://blog.csdn.net/niubitianping/article/details/72617864)
