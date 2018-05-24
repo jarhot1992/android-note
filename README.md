@@ -14,6 +14,8 @@
 
 [Android性能优化（七）之你真的理解ANR吗？](https://juejin.im/user/5852a52d8d6d81006593c533/posts)
 
+[Android 性能优化（八）之网络优化](https://juejin.im/post/58ef22e3b123db0058214c60)
+
 [Android 性能优化：使用 TraceView 找到卡顿的元凶](https://blog.csdn.net/u011240877/article/details/54347396)
 
 [AndroidStudio3.0 Android Profiler分析器(cpu memory network 分析器)](https://blog.csdn.net/niubitianping/article/details/72617864)
