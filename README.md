@@ -18,6 +18,8 @@
 
 [Android 性能优化（九）之不可忽视的电量](https://juejin.im/post/58fef4771b69e60058aab2d1)
 
+[Android 性能优化（十一）之正确的异步姿势](https://juejin.im/post/591bea3d8d6d8100589c31da)
+
 [Android 性能优化：使用 TraceView 找到卡顿的元凶](https://blog.csdn.net/u011240877/article/details/54347396)
 
 [AndroidStudio3.0 Android Profiler分析器(cpu memory network 分析器)](https://blog.csdn.net/niubitianping/article/details/72617864)
