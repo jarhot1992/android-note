@@ -42,3 +42,4 @@
 
 ### Java 知识
 [Java 的强引用、弱引用、软引用、虚引用](http://www.cnblogs.com/gudi/p/6403953.html)     [十分钟理解Java中的弱引用](http://www.importnew.com/21206.html)
+[Java SE1.6中的Synchronized](http://www.infoq.com/cn/articles/java-se-16-synchronized#)
