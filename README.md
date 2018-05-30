@@ -46,3 +46,6 @@
 [Java SE1.6中的Synchronized](http://www.infoq.com/cn/articles/java-se-16-synchronized#)
 
 [线程池异常处理方案](http://yukai.space/2017/04/26/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88/)
+
+### Ubuntu相关知识
+[ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
