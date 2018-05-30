@@ -44,3 +44,5 @@
 [Java 的强引用、弱引用、软引用、虚引用](http://www.cnblogs.com/gudi/p/6403953.html)     [十分钟理解Java中的弱引用](http://www.importnew.com/21206.html)
 
 [Java SE1.6中的Synchronized](http://www.infoq.com/cn/articles/java-se-16-synchronized#)
+
+[线程池异常处理方案](http://yukai.space/2017/04/26/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E6%96%B9%E6%A1%88/)
