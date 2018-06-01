@@ -50,5 +50,7 @@
 [java线程池的使用](http://yukai.space/2017/05/08/java%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
 [Java 线程池的理论与实践](https://juejin.im/post/5906b6e78d6d810058dab1bf)
+
+[Java并发编程学习笔记 深入理解volatile关键字的作用](https://www.cnblogs.com/daxin/p/3364014.html)   [volatile关键字及其作用](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html)
 ### Ubuntu相关知识
 [ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
