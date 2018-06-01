@@ -54,3 +54,7 @@
 [深入理解volatile关键字的作用](https://www.cnblogs.com/daxin/p/3364014.html)   [volatile关键字及其作用](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html)
 ### Ubuntu相关知识
 [ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
+
+### 传送门
+[传送门1](https://juejin.im/entry/5a90ffa56fb9a0634514d32b)
+[传送门2](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html)
