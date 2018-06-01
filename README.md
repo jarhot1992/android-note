@@ -49,5 +49,6 @@
 
 [java线程池的使用](http://yukai.space/2017/05/08/java%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8/)
 
+[Java 线程池的理论与实践](https://juejin.im/post/5906b6e78d6d810058dab1bf)
 ### Ubuntu相关知识
 [ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
