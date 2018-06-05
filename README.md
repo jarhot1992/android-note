@@ -53,6 +53,8 @@
 
 [深入理解volatile关键字的作用](https://www.cnblogs.com/daxin/p/3364014.html)   [volatile关键字及其作用](https://blog.csdn.net/u010255818/article/details/65633033)
 
+[入理解Java内存模型](http://www.infoq.com/cn/minibooks/java_memory_model)
+
 [深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
 ### Ubuntu相关知识
 [ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
