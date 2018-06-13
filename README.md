@@ -40,6 +40,8 @@
 ### Android第三方框架
 [LeakCanary 原理浅析](https://www.jianshu.com/p/3f1a1cc1e964)      [LeakCanary核心原理源码浅析](https://blog.csdn.net/cloud_huan/article/details/53081120)
 
+[Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
+
 ### Java 知识
 [Java 的强引用、弱引用、软引用、虚引用](http://www.cnblogs.com/gudi/p/6403953.html)     [十分钟理解Java中的弱引用](http://www.importnew.com/21206.html)
 
