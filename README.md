@@ -64,3 +64,4 @@
 ### 传送门
 [传送门1](https://juejin.im/entry/5a90ffa56fb9a0634514d32b)
 [传送门2](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html)
+[Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
