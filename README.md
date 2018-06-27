@@ -34,11 +34,15 @@
 
 [Traceview](https://developer.android.google.cn/studio/profile/traceview)  [Traceview(zh)](https://translate.googleusercontent.com/translate_c?depth=1&ie=UTF8&rurl=translate.google.com&sp=nmt4&tl=zh-CN&u=https://developer.android.google.cn/studio/profile/traceview&xid=25657,15700022,15700124,15700149,15700168,15700186,15700189,15700201,15700205&usg=ALkJrhjskC_E0RPCReZLgoVGksrNQr4aDw)
 
+[Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.tianmaying.com/tutorial/AndroidMVC)
+
 ### Android 系统知识
 [Android内存之VSS/RSS/PSS/USS(procrank内存解读)](https://blog.csdn.net/panda1234lee/article/details/52291588)
 
 ### Android第三方框架
 [LeakCanary 原理浅析](https://www.jianshu.com/p/3f1a1cc1e964)      [LeakCanary核心原理源码浅析](https://blog.csdn.net/cloud_huan/article/details/53081120)
+
+[Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
 
 ### Java 知识
 [Java 的强引用、弱引用、软引用、虚引用](http://www.cnblogs.com/gudi/p/6403953.html)     [十分钟理解Java中的弱引用](http://www.importnew.com/21206.html)
@@ -53,12 +57,11 @@
 
 [深入理解volatile关键字的作用](https://www.cnblogs.com/daxin/p/3364014.html)   [volatile关键字及其作用](https://blog.csdn.net/u010255818/article/details/65633033)
 
-[入理解Java内存模型](http://www.infoq.com/cn/minibooks/java_memory_model)
-
-[深入理解Java内存模型（一）——基础](http://www.infoq.com/cn/articles/java-memory-model-1)
+[深入理解Java内存模型](https://github.com/jarhot1992/android-note/blob/master/books/think_deep_in_java_mem_model.pdf)
 ### Ubuntu相关知识
 [ubuntu 系统升级 cmake](https://www.cnblogs.com/wanghuixi/p/7417287.html)
 
 ### 传送门
 [传送门1](https://juejin.im/entry/5a90ffa56fb9a0634514d32b)
 [传送门2](http://www.jackywang.tech/AndroidInterview-Q-A/chinese/subject/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.html)
+[Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/chapter1.html)
